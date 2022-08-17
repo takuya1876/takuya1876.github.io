@@ -1,0 +1,110 @@
+/* //////////////// import //////////////// */
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+
+/* //////////////// header //////////////// */
+
+h1 {
+    font-size: 60px;
+    color:;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.copy {
+    background: #fff;
+    padding: 10px 0;
+    background: url(../img/wood.jpg) 
+    /*　▼　ここに横幅　*/
+
+    /*　▼　ここに枠線　*/
+ 
+    /*　▼　ここにマージン　*/
+
+}
+
+video{
+	background: #000000;
+	}
+
+
+
+.first {
+    font-size: 30px;
+	
+}
+
+
+/* //////////////// menu //////////////// */
+
+.menu {
+    font-size: 20px;
+    padding: 20px 0;
+    background-color: #ddffff;
+    background: url(../img/wood.jpg) 
+}
+
+
+/* //////////////// movie //////////////// */
+
+.movie {
+    padding: 0;
+    width: 100%;
+    background: #eee;
+    background: url(../img/wood.jpg) 
+}
+
+.movie-center {
+    width: 560px;
+    margin: 0 auto;
+}
+
+
+/* //////////////// Map //////////////// */
+
+.map {
+    height: 500px;
+}
+
+/* //////////////// footer //////////////// */
+
+footer {
+    background: #000;
+    color: #fff;
+    padding: 10px 0;
+}
+
+
+/* //////////////// common //////////////// */
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+
+    font-family: 'Lobster', cursive;
+}
+
+h3 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.header {
+    height: 600px;
+    padding-top: 200px;
+    background: url(../img/pysics.png) no-repeat center center scroll;
+    background-size: cover;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a img:hover {
+    opacity: 0.8;
+}
